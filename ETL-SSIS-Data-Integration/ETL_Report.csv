@@ -1,0 +1,6 @@
+Filename,Status,Records,LoadingDateTime
+File1.csv,Processed,10,24/12/2024 17:12
+File3.csv,Processed,10,24/12/2024 17:12
+File5.csv,Processed,10,24/12/2024 17:12
+File2.csv,Wrong,,
+File4.csv,Wrong,,
